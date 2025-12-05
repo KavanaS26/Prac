@@ -1,3 +1,3 @@
-Print("Hello")
-Print("From GitHub")
-Print("By Python")
+print("Hello")
+print("From GitHub")
+print("By Python")
